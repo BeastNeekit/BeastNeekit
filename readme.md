@@ -1,8 +1,8 @@
-![image](https://github.com/user-attachments/assets/2b7195e0-98f3-474f-9924-211b78922fa1)![image](https://github.com/user-attachments/assets/156bd78a-8cee-44e4-a9bb-f173b307242d)
+
 
 <h1 align="center">Hi 👋, I'm Neekit</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="right" alt="Busy" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="right" alt="Busy" width="400px" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 "
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beastneekit&label=Profile%20views&color=0e75b6&style=flat" alt="beastneekit" /> </p>
 
