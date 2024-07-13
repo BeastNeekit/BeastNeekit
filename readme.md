@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Neekit</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align="right" alt="Busy" width="400px" src="![image](https://github.com/user-attachments/assets/5ae38d1a-bb92-4430-8d6f-14cafce0ee1c)">
+<img align="right" alt="Busy" width="400px" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 "
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beastneekit&label=Profile%20views&color=0e75b6&style=flat" alt="beastneekit" /> </p>
 
